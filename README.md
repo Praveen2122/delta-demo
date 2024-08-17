@@ -1,8 +1,1 @@
-# delta-demo
-This is a Demo for Git and Github class.
-
-# Teacher
-Shradha Khapra
-
-# Student
-Delta student
+Created clone Project using html and css.
